@@ -36,5 +36,6 @@ getProduct(@Param('id') prodId: string) {
     removeProduct(@Body('id') prodId:string){
         this.ProductService.deleteProduct(prodId);
         return null;
+        
     }
 }
