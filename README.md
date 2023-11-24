@@ -26,6 +26,13 @@
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
+**Features:**
+- **Create:** Add new products to the system.
+- **Find:** Retrieve information about products.
+- **Update:** Modify existing product details.
+- **Delete:** Remove products from the system.
+
+
 ## Installation
 
 ```bash
